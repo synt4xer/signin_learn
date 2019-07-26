@@ -1,6 +1,6 @@
 # signin_learn
 
-A new Flutter application.
+Learning flutter by creating login and signup application.
 
 ## Getting Started
 
